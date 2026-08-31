@@ -84,7 +84,6 @@ Here’s a quick guide to the files in this repository:
 | `KMP.cpp` | String | The classic **Knuth-Morris-Pratt** algorithm for linear-time pattern matching. |
 | `z-pi_func.cpp` | String | Implementations of the **Z-function** and the **Prefix-function** (Pi-function), fundamental for many string algorithms. |
 | `segment_tree.cpp` | Data Structure | A basic implementation of a **Segment Tree** for range sum queries and point updates. |
-| `css.cpp` | - | (This file name is ambiguous; it might be a typo or a sandbox file. Consider renaming it for clarity or removing it.) |
 
 ## 📜 License
 
